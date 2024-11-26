@@ -131,4 +131,8 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/8057vivek/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
