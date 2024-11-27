@@ -18,6 +18,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/8057vivek/Leetcode/tree/master/0136-single-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1651-shuffle-string](https://github.com/8057vivek/Leetcode/tree/master/1651-shuffle-string) |
@@ -38,6 +39,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/8057vivek/Leetcode/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/8057vivek/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/8057vivek/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
