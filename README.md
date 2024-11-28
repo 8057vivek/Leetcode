@@ -79,6 +79,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
@@ -141,6 +142,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -149,5 +151,6 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
