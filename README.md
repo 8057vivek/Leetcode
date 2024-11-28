@@ -79,6 +79,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
@@ -137,4 +138,16 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/8057vivek/Leetcode/tree/master/3189-find-champion-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
