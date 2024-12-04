@@ -11,6 +11,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1651-shuffle-string](https://github.com/8057vivek/Leetcode/tree/master/1651-shuffle-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/8057vivek/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/8057vivek/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/8057vivek/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/8057vivek/Leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
@@ -116,6 +117,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/8057vivek/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/8057vivek/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
 | ------- |
