@@ -52,6 +52,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/8057vivek/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/8057vivek/Leetcode/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8057vivek/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/8057vivek/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -181,6 +184,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/8057vivek/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
 | ------- |
