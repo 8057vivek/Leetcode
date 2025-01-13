@@ -26,6 +26,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/8057vivek/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/8057vivek/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/8057vivek/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
