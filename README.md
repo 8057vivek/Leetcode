@@ -80,6 +80,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/8057vivek/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -116,6 +117,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -147,6 +149,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/8057vivek/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
