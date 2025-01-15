@@ -28,6 +28,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/8057vivek/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/8057vivek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/8057vivek/Leetcode/tree/master/0136-single-number) |
@@ -160,6 +161,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/8057vivek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/8057vivek/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -170,6 +172,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/8057vivek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
