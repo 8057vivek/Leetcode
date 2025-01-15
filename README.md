@@ -32,6 +32,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/8057vivek/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/8057vivek/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -233,6 +234,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
