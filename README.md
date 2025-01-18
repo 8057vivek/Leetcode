@@ -74,6 +74,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0136-single-number](https://github.com/8057vivek/Leetcode/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/8057vivek/Leetcode/tree/master/0476-number-complement) |
+| [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1940-maximum-xor-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/8057vivek/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -139,6 +140,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [0483-smallest-good-base](https://github.com/8057vivek/Leetcode/tree/master/0483-smallest-good-base) |
+| [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/8057vivek/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -241,6 +243,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Recursion
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
