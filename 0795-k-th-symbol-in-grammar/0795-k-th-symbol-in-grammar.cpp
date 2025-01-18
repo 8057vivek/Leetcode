@@ -1,13 +1,18 @@
 class Solution {
 public:
     int kthGrammar(int n, int k) {
-        
-        int count = 0;
-        k--; 
-        while (k > 0) {
-            count += (k & 1); // Check if the least significant bit is 1
-            k >>= 1;          // Right shift to process the next bit
+
+        if(n==1){
+            return 0;
         }
-        return count % 2; // If odd, return 1; if even, return 0
+
+        int mid = pow(2,n-1)/2;
+
+        if(k>mid){
+            return !kthGrammar(n-1,k-mid);
+        }
+
+        return kthGrammar(n-1,k);
+       
     }
 };
