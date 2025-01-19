@@ -46,6 +46,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1349-check-if-it-is-a-straight-line](https://github.com/8057vivek/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/8057vivek/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1603-running-sum-of-1d-array](https://github.com/8057vivek/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/8057vivek/Leetcode/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/8057vivek/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -120,6 +121,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0238-product-of-array-except-self](https://github.com/8057vivek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/8057vivek/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/8057vivek/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2571-find-the-pivot-integer](https://github.com/8057vivek/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3427-special-array-ii](https://github.com/8057vivek/Leetcode/tree/master/3427-special-array-ii) |
