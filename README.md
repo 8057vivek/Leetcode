@@ -260,6 +260,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/8057vivek/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
@@ -270,6 +271,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/8057vivek/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -283,4 +285,8 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
