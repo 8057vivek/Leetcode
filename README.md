@@ -56,6 +56,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1755-defuse-the-bomb](https://github.com/8057vivek/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/8057vivek/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/8057vivek/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -157,6 +158,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/8057vivek/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/8057vivek/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2571-find-the-pivot-integer](https://github.com/8057vivek/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -222,6 +224,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -242,6 +245,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/8057vivek/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -262,6 +266,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
