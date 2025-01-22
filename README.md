@@ -7,6 +7,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
 | [0812-rotate-string](https://github.com/8057vivek/Leetcode/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/8057vivek/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/8057vivek/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -263,6 +264,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
@@ -312,6 +314,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/8057vivek/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/8057vivek/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
