@@ -41,6 +41,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/8057vivek/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/8057vivek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/8057vivek/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -315,6 +316,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0040-combination-sum-ii](https://github.com/8057vivek/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/8057vivek/Leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/8057vivek/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
