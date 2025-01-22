@@ -4,7 +4,7 @@ public:
          result.push_back(current);
 
         for (int i = index; i < nums.size(); ++i) {
-            if (i > index && nums[i] == nums[i - 1]){
+            if (i != index && nums[i] == nums[i - 1]){
                 continue;
             }
             current.push_back(nums[i]);
