@@ -36,6 +36,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0039-combination-sum](https://github.com/8057vivek/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/8057vivek/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/8057vivek/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/8057vivek/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/8057vivek/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -321,6 +322,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0039-combination-sum](https://github.com/8057vivek/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/8057vivek/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/8057vivek/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/8057vivek/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/8057vivek/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/8057vivek/Leetcode/tree/master/0216-combination-sum-iii) |
