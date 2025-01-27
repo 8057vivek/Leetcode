@@ -229,11 +229,13 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/8057vivek/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2573-remove-nodes-from-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/8057vivek/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2573-remove-nodes-from-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -284,6 +286,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -346,4 +349,5 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/8057vivek/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
