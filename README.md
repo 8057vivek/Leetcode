@@ -10,6 +10,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0812-rotate-string](https://github.com/8057vivek/Leetcode/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/8057vivek/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/8057vivek/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/8057vivek/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/8057vivek/Leetcode/tree/master/1651-shuffle-string) |
@@ -278,6 +279,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/8057vivek/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
