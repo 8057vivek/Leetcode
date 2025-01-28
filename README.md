@@ -8,6 +8,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0516-longest-palindromic-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/8057vivek/Leetcode/tree/master/0812-rotate-string) |
@@ -278,6 +279,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
