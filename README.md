@@ -40,6 +40,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0011-container-with-most-water](https://github.com/8057vivek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/8057vivek/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/8057vivek/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/8057vivek/Leetcode/tree/master/0046-permutations) |
@@ -123,6 +124,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0001-two-sum](https://github.com/8057vivek/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -267,6 +269,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
