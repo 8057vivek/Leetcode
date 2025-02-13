@@ -416,4 +416,8 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/8057vivek/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
