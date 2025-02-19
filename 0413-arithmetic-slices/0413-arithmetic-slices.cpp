@@ -9,8 +9,8 @@ public:
         int totalSlices = 0;
         int count = 0; // Stores slices ending at index i
 
-        for (int i = 2; i < n; i++) {
-            if (nums[i] - nums[i - 1] == nums[i - 1] - nums[i - 2]) {
+        for (int i = 0; i < n-2; i++) {
+            if (nums[i+1] - nums[i] == nums[i + 2] - nums[i+1]) {
                 count += 1; // Extending the previous slice
                 totalSlices += count; // Add all possible new slices
             } else {
