@@ -63,6 +63,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0485-max-consecutive-ones](https://github.com/8057vivek/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/8057vivek/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -204,6 +205,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0483-smallest-good-base](https://github.com/8057vivek/Leetcode/tree/master/0483-smallest-good-base) |
+| [0792-binary-search](https://github.com/8057vivek/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
