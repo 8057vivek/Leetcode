@@ -9,8 +9,10 @@ public:
         for(int i=0;i<n;i++){
            map[nums[i]] = i;
         }
+
         vector<int> result;
         for(int i=0;i<n;i++){
+            
             int Val = target-nums[i];
             if(map.find(Val)!=map.end() && map[Val] != i){
                 result.push_back(i);
