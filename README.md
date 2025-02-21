@@ -253,6 +253,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/8057vivek/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/8057vivek/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/8057vivek/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -425,6 +426,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/8057vivek/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/8057vivek/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Union Find
 |  |
