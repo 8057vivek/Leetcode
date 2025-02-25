@@ -449,4 +449,5 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0177-nth-highest-salary](https://github.com/8057vivek/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0595-big-countries](https://github.com/8057vivek/Leetcode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/8057vivek/Leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/8057vivek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
