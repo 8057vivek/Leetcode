@@ -270,6 +270,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/8057vivek/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/8057vivek/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -459,4 +460,8 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/8057vivek/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/8057vivek/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/8057vivek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/8057vivek/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
