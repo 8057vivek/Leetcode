@@ -55,6 +55,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/8057vivek/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/8057vivek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/8057vivek/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -345,6 +346,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0053-maximum-subarray](https://github.com/8057vivek/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/8057vivek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/8057vivek/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0300-longest-increasing-subsequence) |
