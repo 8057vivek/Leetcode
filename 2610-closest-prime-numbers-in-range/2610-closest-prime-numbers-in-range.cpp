@@ -16,6 +16,9 @@ public:
 
         for(int i=left;i<=right;i++){
             if(isPrime(i)){
+                if(!vec.empty() && i -vec.back()<=2){
+                    return {vec.back(), i};
+                }
                 vec.push_back(i);
             }
         }
