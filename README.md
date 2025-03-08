@@ -10,6 +10,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/8057vivek/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -351,6 +352,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/8057vivek/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/8057vivek/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8057vivek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/8057vivek/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
