@@ -1,24 +1,22 @@
 class Solution {
 public:
-    unordered_map<int, int> memo;
-    int climbStairs(int n) {
-        if(memo.find(n)!=memo.end()){
-            return memo[n];
-        }
+    int dp[46];
+    int climbStairs1(int n) {
         if(n==0){
             return 1;
         }
-        if(n==1){
-            return 1;
-        }
-        if(n < 0){
-            return 0;
+        if(n < 0) return 0;  
+        if(dp[n]!=-1){
+            return dp[n];
         }
 
-        int count = climbStairs(n-1)+climbStairs(n-2);
+        int oneStep = climbStairs1(n-1);
+        int twoStep = climbStairs1(n-2);
 
-        memo[n]= count;
-
-        return count;
+        return dp[n] = oneStep+twoStep;
+    }
+    int climbStairs(int n){
+        memset(dp, -1, sizeof(dp));
+        return climbStairs1(n);
     }
 };
