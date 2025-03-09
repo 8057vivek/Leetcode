@@ -4,41 +4,30 @@ public:
         int n = colors.size();
         if (k > n) return 0; 
 
-        int count = 0;
-        bool valid = true;
+        int count = 0, invalidPairs = 0;
 
 
         for (int i = 0; i < k - 1; i++) {
-            if (colors[i % n] == colors[(i + 1) % n]) {
-                valid = false;
-                break;
+            if (colors[i] == colors[i + 1]) {
+                invalidPairs++;
             }
         }
-        if (valid) count++;
-
-    
-        for (int i = 1; i < n; i++) {
-            
-            if (colors[(i - 1) % n] == colors[i % n]) valid = false;
-
         
-            if (colors[(i + k - 2) % n] == colors[(i + k - 1) % n]) valid = false;
+        // If the first window is valid, count it
+        if (invalidPairs == 0) count++;
 
-            
-            if (valid) {
-                count++;
-            } else {
-                
-                valid = true;
-                for (int j = i; j < i + k - 1; j++) {
-                    if (colors[j % n] == colors[(j + 1) % n]) {
-                        valid = false;
-                        break;
-                    }
-                }
-                if (valid) count++; 
-            }
+        // Step 2: Slide the window across the array
+        for (int i = 1; i < n; i++) {
+            // Remove outgoing element's impact
+            if (colors[i - 1] == colors[i]) invalidPairs--;
+
+            // Add incoming element's impact
+            if (colors[(i + k - 2) % n] == colors[(i + k - 1) % n]) invalidPairs++;
+
+            // If valid (no invalid pairs), count it
+            if (invalidPairs == 0) count++;
         }
+
         return count;
     }
 };
