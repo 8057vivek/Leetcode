@@ -1,15 +1,17 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        int buy = prices[0];
-        int profit = 0;
-        for(int i=1;i<n;i++){
-            int diff = prices[i]-buy;
-            profit =max(profit, diff) ;
-            buy=min(buy ,prices[i]);
+    int recursion(vector<int>& prices,int minPrice,  int index){
+        if(index>=prices.size()){
+            return 0;
         }
+        int newMinPrice = min(minPrice, prices[index]);
+        int profit = prices[index]-minPrice;
+        int nextProfit = recursion(prices, newMinPrice, index+1);
 
-        return profit;
+        return max(profit, nextProfit);
+
+    }
+    int maxProfit(vector<int>& prices) {
+        return recursion(prices, prices[0], 0);
     }
 };
