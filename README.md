@@ -391,6 +391,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0024-swap-nodes-in-pairs](https://github.com/8057vivek/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/8057vivek/Leetcode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
@@ -492,6 +493,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/8057vivek/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/8057vivek/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
