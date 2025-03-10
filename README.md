@@ -79,6 +79,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0518-coin-change-ii](https://github.com/8057vivek/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
+| [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/8057vivek/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
@@ -162,6 +163,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0438-find-all-anagrams-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/8057vivek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -377,6 +379,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0516-longest-palindromic-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/8057vivek/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/8057vivek/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/8057vivek/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
