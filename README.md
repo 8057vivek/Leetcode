@@ -216,6 +216,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0060-permutation-sequence](https://github.com/8057vivek/Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/8057vivek/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
@@ -360,6 +361,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0053-maximum-subarray](https://github.com/8057vivek/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/8057vivek/Leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/8057vivek/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8057vivek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/8057vivek/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -398,6 +400,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/8057vivek/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -427,6 +430,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/8057vivek/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -469,6 +473,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/8057vivek/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/8057vivek/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
