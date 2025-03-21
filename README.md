@@ -25,6 +25,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1537-maximum-score-after-splitting-a-string](https://github.com/8057vivek/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/8057vivek/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/8057vivek/Leetcode/tree/master/1651-shuffle-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/8057vivek/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/8057vivek/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -107,6 +108,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/8057vivek/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/8057vivek/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/8057vivek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -181,6 +183,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1364-tuple-with-same-product](https://github.com/8057vivek/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8057vivek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/8057vivek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/8057vivek/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/8057vivek/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -379,6 +382,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/8057vivek/Leetcode/tree/master/3189-find-champion-ii) |
 ## Dynamic Programming
 |  |
@@ -546,4 +550,8 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/8057vivek/Leetcode/tree/master/0155-min-stack) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
