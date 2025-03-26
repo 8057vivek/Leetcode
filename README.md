@@ -394,6 +394,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/8057vivek/Leetcode/tree/master/3189-find-champion-ii) |
 ## Dynamic Programming
@@ -426,6 +427,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1121-partition-array-for-maximum-sum](https://github.com/8057vivek/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/8057vivek/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8057vivek/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
 | ------- |
@@ -569,9 +571,11 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
