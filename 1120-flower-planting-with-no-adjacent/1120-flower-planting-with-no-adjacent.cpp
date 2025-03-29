@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs(int node, vector<vector<int>>& adj, vector<int>& flower, vector<int>& result,vector<int>& types){
+    void dfs(int node, vector<vector<int>>& adj, vector<int>& flower,vector<int>& types){
         vector<bool> used(5,false);
 
 
@@ -13,7 +13,6 @@ public:
 
         for(int f : types){
             if(!used[f]){
-                result[node] = f;
                 flower[node] = f;
                 break;
             }
@@ -21,7 +20,7 @@ public:
 
         for(int nbr : adj[node]){
             if(flower[nbr]==-1){
-                dfs(nbr,adj,flower,result,types);
+                dfs(nbr,adj,flower,types);
             }
         }
 
@@ -35,17 +34,16 @@ public:
             adj[v].push_back(u);
         }
 
-        vector<int> result(n+1);
         vector<int> flower(n+1, -1);
         vector<int> types = {1,2,3,4};
 
         for(int i=1;i<n+1;i++){
             if(flower[i]==-1){
-                dfs(i,adj, flower, result,types);
+                dfs(i,adj, flower,types);
             }
         }
 
-        result.erase(result.begin());
-        return result;
+        flower.erase(flower.begin());
+        return flower;
     }
 };
