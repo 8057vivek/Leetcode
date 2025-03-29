@@ -406,6 +406,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/8057vivek/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/8057vivek/Leetcode/tree/master/3189-find-champion-ii) |
@@ -489,6 +490,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/8057vivek/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/8057vivek/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/8057vivek/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
@@ -522,6 +524,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/8057vivek/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Geometry
 |  |
 | ------- |
