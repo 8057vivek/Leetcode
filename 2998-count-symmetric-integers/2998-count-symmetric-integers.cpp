@@ -2,19 +2,22 @@ class Solution {
 public:
     int countSymmetricIntegers(int low, int high) {
         int count = 0;
-        for(int i=low;i<=high;i++){
-            string str = to_string(i);
-            int l = str.length();
-            if(l%2==0){
-                int firstHalfSum = 0;
-                for(int j=0;j<l/2;j++){
-                    firstHalfSum+=str[j]-'0';
+        for(int i =low ;i<=high;i++){
+            if(i<100){
+                if(i%11==0){
+                    count++;
                 }
-                int nextHalfSum = 0;
-                for(int k=l/2;k<l;k++){
-                    nextHalfSum+=str[k]-'0';
-                }
-                if(firstHalfSum==nextHalfSum){
+            }
+            else if(i>=1000 && i<10000){
+                int thousand_place = (i/1000)%10;
+                int hundred_place = (i/100)%10;
+                int tens_place = (i/10)%10;
+                int ones_place = i%10;
+
+                int firstHalf = thousand_place + hundred_place;
+                int nextHalf = tens_place + ones_place;
+
+                if(firstHalf==nextHalf){
                     count++;
                 }
             }
