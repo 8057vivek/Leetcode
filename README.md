@@ -402,6 +402,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/8057vivek/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -484,6 +485,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0111-minimum-depth-of-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/8057vivek/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/8057vivek/Leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
@@ -519,6 +521,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0144-binary-tree-preorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/8057vivek/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
@@ -595,6 +598,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/8057vivek/Leetcode/tree/master/0310-minimum-height-trees) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
