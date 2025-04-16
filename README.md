@@ -73,6 +73,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0198-house-robber](https://github.com/8057vivek/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/8057vivek/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/8057vivek/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/8057vivek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
@@ -387,6 +388,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
+| [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
@@ -431,6 +433,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0152-maximum-product-subarray](https://github.com/8057vivek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/8057vivek/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/8057vivek/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/8057vivek/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
