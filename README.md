@@ -89,6 +89,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0518-coin-change-ii](https://github.com/8057vivek/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/8057vivek/Leetcode/tree/master/0792-binary-search) |
@@ -396,6 +397,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/8057vivek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -506,6 +508,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
@@ -543,6 +546,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
@@ -591,6 +595,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/8057vivek/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
