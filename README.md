@@ -72,6 +72,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0162-find-peak-element](https://github.com/8057vivek/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/8057vivek/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/8057vivek/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/8057vivek/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
@@ -392,6 +393,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -497,6 +499,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/8057vivek/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/8057vivek/Leetcode/tree/master/0322-coin-change) |
@@ -534,6 +537,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0111-minimum-depth-of-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/8057vivek/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
@@ -585,6 +589,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/8057vivek/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
