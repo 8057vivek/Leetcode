@@ -14,6 +14,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/8057vivek/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0151-reverse-words-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/8057vivek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -339,6 +340,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/8057vivek/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/8057vivek/Leetcode/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
