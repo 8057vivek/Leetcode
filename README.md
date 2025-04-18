@@ -9,6 +9,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/8057vivek/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/8057vivek/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/8057vivek/Leetcode/tree/master/0091-decode-ways) |
