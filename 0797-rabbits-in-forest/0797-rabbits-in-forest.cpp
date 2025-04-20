@@ -9,19 +9,11 @@ public:
 
         int count = 0;
 
-        for(auto& it : mp){
-            if(it.first==0){
-                count+= it.second;
-            }
-            else{
-                int f = it.second;
-                int number = it.first;
-                int groups = (f + (number+1) - 1) / (number+1);
-
-                count += groups * (number+1);
-            }
+        for(auto& [number,f] : mp){
+            int groups = (f + (number+1) - 1) / (number+1);
+            count += groups * (number+1);
         }
-
         return count;
     }
+
 };
