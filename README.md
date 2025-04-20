@@ -7,6 +7,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/8057vivek/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/8057vivek/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/8057vivek/Leetcode/tree/master/0038-count-and-say) |
@@ -647,4 +648,8 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [1656-count-good-triplets](https://github.com/8057vivek/Leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/8057vivek/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/8057vivek/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
