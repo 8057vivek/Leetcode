@@ -96,6 +96,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/8057vivek/Leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/8057vivek/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -201,6 +202,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0496-next-greater-element-i](https://github.com/8057vivek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
+| [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -279,6 +281,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
 | [0483-smallest-good-base](https://github.com/8057vivek/Leetcode/tree/master/0483-smallest-good-base) |
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/8057vivek/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -325,6 +328,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0011-container-with-most-water](https://github.com/8057vivek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/8057vivek/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/8057vivek/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/8057vivek/Leetcode/tree/master/2032-largest-odd-number-in-string) |
