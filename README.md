@@ -124,6 +124,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/8057vivek/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/8057vivek/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/8057vivek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -244,6 +245,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1537-maximum-score-after-splitting-a-string](https://github.com/8057vivek/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/8057vivek/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2249-count-the-hidden-sequences](https://github.com/8057vivek/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2571-find-the-pivot-integer](https://github.com/8057vivek/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3427-special-array-ii](https://github.com/8057vivek/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/8057vivek/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
