@@ -17,6 +17,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0115-distinct-subsequences](https://github.com/8057vivek/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/8057vivek/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/8057vivek/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -199,6 +200,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/8057vivek/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/8057vivek/Leetcode/tree/master/0496-next-greater-element-i) |
