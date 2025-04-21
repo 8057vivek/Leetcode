@@ -1,22 +1,20 @@
 class Solution {
 public:
     int numberOfArrays(vector<int>& diff, int lower, int upper) {
-        
-        int n  = diff.size();
-        vector<long> vec(n+1);
-        vec[0] = diff[0];
-        for(int i=1;i<=n;i++){
-            vec[i] = vec[i-1]+diff[i-1];
+        long curr = 0; // starting from 0
+        long maxVal = 0;
+        long minVal = 0;
+
+        for (int i = 0; i < diff.size(); i++) {
+            curr += diff[i];
+            maxVal = max(maxVal, curr);
+            minVal = min(minVal, curr);
         }
 
-        sort(vec.begin(),vec.end());
-        int range = vec[n] - vec[0];
-        int res = upper-lower+1-(range);
+        long range = maxVal - minVal;
+        long total = upper - lower;
 
-        if(res<0){
-            return 0;
-        }
-        return res;
-
+        if (range > total) return 0;
+        return total - range + 1;
     }
 };
