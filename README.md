@@ -507,6 +507,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/8057vivek/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -521,6 +522,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0102-binary-tree-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/8057vivek/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
@@ -546,6 +548,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/8057vivek/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/8057vivek/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -559,6 +562,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/8057vivek/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/8057vivek/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
