@@ -515,6 +515,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/8057vivek/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/8057vivek/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/8057vivek/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
@@ -558,6 +559,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/8057vivek/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/8057vivek/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/8057vivek/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/8057vivek/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -579,6 +581,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/8057vivek/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/8057vivek/Leetcode/tree/master/0922-possible-bipartition) |
+| [0988-flip-equivalent-binary-trees](https://github.com/8057vivek/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/8057vivek/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Geometry
