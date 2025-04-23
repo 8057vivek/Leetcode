@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countLargestGroup(int n) {
-        unordered_map<int, int> mp; // freq, count
+        vector<int> count(37,0);
         int maximum = 0;
         for(int i=1;i<=n;i++){
             int sum = 0;
@@ -11,15 +11,16 @@ public:
                 num = num/10;
                 sum+=digit;
             }
-            mp[sum]++;
-            maximum = max(maximum, mp[sum]);
+            count[sum]++;
+            maximum = max(maximum, count[sum]);
         }
-        int count = 0;
-        for(auto& pair : mp){
-            if(pair.second==maximum){
-                count++;
+
+        int res = 0;
+        for(int i=1;i<=36;i++){
+            if(count[i]==maximum){
+                res++;
             }
         }
-        return count;
+        return res;
     }
 };
