@@ -8,19 +8,20 @@ public:
             set.insert(n);
         }
         int length = set.size();
+        int left = 0;
+
+        unordered_map<int, int> mp;
 
         for(int i=0;i<n;i++){
-            
-            unordered_map<int, int> mp;
-            int index = 0;
-            for(int j=i;j<n;j++){
-                mp[nums[j]]++;
-                if(mp.size()==length){
-                    index = j;
-                    count = count + (n-index);
-                    break;
+            mp[nums[i]]++;
+
+            while(mp.size()==length){
+                count += (n-i);
+                mp[nums[left]]--;
+                if(mp[nums[left]]==0){
+                    mp.erase(nums[left]);
                 }
-                
+                left++;
             }
         }
 
