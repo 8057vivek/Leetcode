@@ -147,6 +147,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/8057vivek/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/8057vivek/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2915-count-of-interesting-subarrays](https://github.com/8057vivek/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/8057vivek/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/8057vivek/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/8057vivek/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -235,6 +236,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/8057vivek/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/8057vivek/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/8057vivek/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/8057vivek/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/8057vivek/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -261,6 +263,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1940-maximum-xor-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2249-count-the-hidden-sequences](https://github.com/8057vivek/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2571-find-the-pivot-integer](https://github.com/8057vivek/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2915-count-of-interesting-subarrays](https://github.com/8057vivek/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/8057vivek/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/8057vivek/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
