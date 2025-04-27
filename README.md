@@ -162,6 +162,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8057vivek/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/8057vivek/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/8057vivek/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Bit Manipulation
 |  |
 | ------- |
