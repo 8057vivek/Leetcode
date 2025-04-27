@@ -4,7 +4,19 @@ public:
         int n = arr.size();
         int count = 0;
         for(int i=0;i<n-2;i++){
-            if((arr[i]+arr[i+2])*2 == arr[i+1]){
+            int c = 0;
+            int sum = 0;
+            int sub = 0;
+            for(int j=i;j<i+3;j++){
+                if(c==0 || c==2){
+                    sum+=arr[j];
+                }
+                if(c==1){
+                    sub = arr[j];
+                }
+                c++;
+            }
+            if(sum*2==sub){
                 count++;
             }
         }
