@@ -2,42 +2,29 @@ class Solution {
 public:
     string pushDominoes(string dom) {
         int n = dom.size();
-        string res(n, '.');
-        int i = 0;
+        vector<int> forces(n);
+        int force = 0;
 
-        // Handle initial left push if present
-        while (i < n && dom[i] == '.') i++;
-        if (i < n && dom[i] == 'L') {
-            for (int k = 0; k < i; ++k) res[k] = 'L';
+        // left to right
+        for(int i=0;i<n;i++){
+            if(dom[i]=='R') force = n;
+            else if(dom[i]=='L') force =0;
+            else force = max(force-1,0);
+            forces[i] = force;
+        }
+        // right to left
+        for(int i=n-1;i>=0;i--){
+            if(dom[i]=='L') force = n;
+            else if(dom[i]=='R') force =0;
+            else force = max(force-1,0);
+            forces[i] -= force;
         }
 
-        int prev = -1;
-        while (i < n) {
-            if (dom[i] != '.') {
-                char left = dom[prev >= 0 ? prev : i];
-                char right = dom[i];
-                if (prev != -1) {
-                    if (left == 'R' && right == 'L') {
-                        int l = prev + 1, r = i - 1;
-                        while (l < r) {
-                            res[l++] = 'R';
-                            res[r--] = 'L';
-                        }
-                    } else if (left == 'R' && right == 'R') {
-                        for (int k = prev + 1; k < i; ++k) res[k] = 'R';
-                    } else if (left == 'L' && right == 'L') {
-                        for (int k = prev + 1; k < i; ++k) res[k] = 'L';
-                    }
-                }
-                res[i] = right;
-                prev = i;
-            }
-            ++i;
-        }
-
-        // Handle trailing right push
-        if (prev != -1 && dom[prev] == 'R') {
-            for (int k = prev + 1; k < n; ++k) res[k] = 'R';
+        string res = "";
+        for(int num : forces){
+            if(num>0) res+='R';
+            else if(num<0) res+='L';
+            else res+='.';
         }
 
         return res;
