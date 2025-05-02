@@ -26,6 +26,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0583-delete-operation-for-two-strings](https://github.com/8057vivek/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/8057vivek/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/8057vivek/Leetcode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/8057vivek/Leetcode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/8057vivek/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/8057vivek/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/8057vivek/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -391,6 +392,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/8057vivek/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0868-push-dominoes](https://github.com/8057vivek/Leetcode/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/8057vivek/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -506,6 +508,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0647-palindromic-substrings](https://github.com/8057vivek/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/8057vivek/Leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/8057vivek/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/8057vivek/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
