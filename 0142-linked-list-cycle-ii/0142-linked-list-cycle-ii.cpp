@@ -9,14 +9,28 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_set<ListNode*> visited; //stores the pointer address
-        while(head!=nullptr){
-            if(visited.count(head)){
-                return head;
-            }
-            visited.insert(head);
-            head = head->next;
+        if(head==nullptr || head->next==nullptr){
+            return nullptr;
         }
-        return nullptr;
+        ListNode * slow = head;
+        ListNode * fast = head;
+
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow==fast){
+                break;
+            }
+        }
+        if(fast==nullptr || fast->next==nullptr){
+            return nullptr;
+        }
+
+        slow = head;
+        while(slow!=fast){
+            slow = slow->next;
+            fast = fast->next;
+        }
+        return slow;
     }
 };
