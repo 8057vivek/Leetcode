@@ -220,6 +220,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/8057vivek/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/8057vivek/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/8057vivek/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/8057vivek/Leetcode/tree/master/0242-valid-anagram) |
@@ -394,6 +395,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/8057vivek/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/8057vivek/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/8057vivek/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
@@ -666,6 +668,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/8057vivek/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/8057vivek/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/8057vivek/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/8057vivek/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
