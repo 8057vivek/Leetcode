@@ -334,6 +334,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/8057vivek/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/8057vivek/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/8057vivek/Leetcode/tree/master/1500-count-largest-group) |
@@ -541,6 +542,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/8057vivek/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/8057vivek/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/8057vivek/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8057vivek/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/8057vivek/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -566,6 +568,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
