@@ -94,6 +94,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0300-longest-increasing-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/8057vivek/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/8057vivek/Leetcode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/8057vivek/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
@@ -200,6 +201,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0056-merge-intervals](https://github.com/8057vivek/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/8057vivek/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/8057vivek/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -232,6 +234,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0205-isomorphic-strings](https://github.com/8057vivek/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/8057vivek/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -365,6 +368,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0209-minimum-size-subarray-sum](https://github.com/8057vivek/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0483-smallest-good-base](https://github.com/8057vivek/Leetcode/tree/master/0483-smallest-good-base) |
 | [0792-binary-search](https://github.com/8057vivek/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -418,6 +422,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/8057vivek/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/8057vivek/Leetcode/tree/master/0868-push-dominoes) |
