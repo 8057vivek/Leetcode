@@ -48,6 +48,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3451-string-compression-iii](https://github.com/8057vivek/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/8057vivek/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/8057vivek/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/8057vivek/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -262,6 +263,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/8057vivek/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/8057vivek/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/8057vivek/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/8057vivek/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
@@ -275,6 +277,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/8057vivek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/8057vivek/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/8057vivek/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/8057vivek/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -347,6 +350,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2998-count-symmetric-integers](https://github.com/8057vivek/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/8057vivek/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/8057vivek/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -541,6 +545,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8057vivek/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/8057vivek/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/8057vivek/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
