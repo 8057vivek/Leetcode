@@ -4,18 +4,19 @@ public:
         int n = s.length();
         stack<char> st;
         for(int i=0;i<n;i++){
-            if(!st.empty() && st.top()==s[i]){
-                st.pop();
-            }else{
+            if(st.empty() || st.top()!=s[i]){
                 st.push(s[i]);
+            }else{
+                st.pop();
             }
         }
         string res = "";
         while(!st.empty()){
-            res = st.top() + res;
+            res.push_back(st.top());
             st.pop();
         }
 
-        return res; 
+        reverse(res.begin(), res.end()); 
+        return res;
     }
 };
