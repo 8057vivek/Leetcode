@@ -1,38 +1,39 @@
 class Solution {
 public:
-    int evaluate(int index, string s) {
-        long long ans = 0, num = 0, sign = 1; // sign = 1 for '+', -1 for '-'
+    int calculate(string s) {
+        int res = 0;
+        int num = 0;
+        int sign = 1; 
+        stack<int> st;
 
-        while (index < s.length()) {
-            char ch = s[index];
-
-            if (ch >= '0' && ch <= '9') {
+        for (char ch : s) {
+            if (isdigit(ch)) {
                 num = num * 10 + (ch - '0');
-            } else if (ch == '(') {
-                num = evaluate(index + 1, s);
-                int open = 1;
-                index++;
-                while (index < s.length()) {
-                    if (s[index] == '(') open++;
-                    else if (s[index] == ')') open--;
-                    if (open == 0) break;
-                    index++;
-                }
-            } else if (ch == ')') {
-                return ans + sign * num;
-            } else if (ch == '+' || ch == '-') {
-                ans += sign * num;
-                num = 0;
-                sign = (ch == '+') ? 1 : -1;
             }
-
-            index++;
+            else if (ch == '+') {
+                res += sign * num;
+                num = 0;
+                sign = 1;
+            }
+            else if (ch == '-') {
+                res += sign * num;
+                num = 0;
+                sign = -1;
+            }
+            else if (ch == '(') {
+                st.push(res);
+                st.push(sign);
+                res = 0;
+                sign = 1;
+            } 
+            else if (ch == ')') {
+                res += sign * num;
+                num = 0;
+                res *= st.top(); st.pop(); 
+                res += st.top(); st.pop(); 
+            }
         }
 
-        return ans + sign * num;
-    }
-
-    int calculate(string s) {
-        return evaluate(0, s);
+        return res + sign * num;
     }
 };
