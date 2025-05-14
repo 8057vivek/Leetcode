@@ -118,6 +118,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1121-partition-array-for-maximum-sum](https://github.com/8057vivek/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/8057vivek/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1284-four-divisors](https://github.com/8057vivek/Leetcode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/8057vivek/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/8057vivek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/8057vivek/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -343,6 +344,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1284-four-divisors](https://github.com/8057vivek/Leetcode/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/8057vivek/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/8057vivek/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/8057vivek/Leetcode/tree/master/1500-count-largest-group) |
