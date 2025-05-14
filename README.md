@@ -29,6 +29,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0812-rotate-string](https://github.com/8057vivek/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/8057vivek/Leetcode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/8057vivek/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/8057vivek/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/8057vivek/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/8057vivek/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8057vivek/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -458,6 +459,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0739-daily-temperatures](https://github.com/8057vivek/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/8057vivek/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/8057vivek/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/8057vivek/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/8057vivek/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
