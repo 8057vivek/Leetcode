@@ -84,6 +84,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/8057vivek/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/8057vivek/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/8057vivek/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/8057vivek/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/8057vivek/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -333,6 +334,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0171-excel-sheet-column-number](https://github.com/8057vivek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/8057vivek/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8057vivek/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/8057vivek/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
@@ -404,6 +406,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/8057vivek/Leetcode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/8057vivek/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/8057vivek/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -755,6 +758,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/8057vivek/Leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/8057vivek/Leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/8057vivek/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Trie
