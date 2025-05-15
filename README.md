@@ -74,6 +74,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0051-n-queens](https://github.com/8057vivek/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/8057vivek/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/8057vivek/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/8057vivek/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/8057vivek/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
