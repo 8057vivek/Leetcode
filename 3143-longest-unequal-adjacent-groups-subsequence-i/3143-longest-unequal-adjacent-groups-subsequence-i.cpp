@@ -4,11 +4,15 @@ public:
         vector<string> result;
         int n = words.size();
         result.push_back(words[0]);
-        for(int i=1;i<n;i++){
-            if(groups[i]!=groups[i-1]){
+        int lastGroup = groups[0];
+
+        for (int i = 1; i < n; ++i) {
+            if (groups[i] != lastGroup) {
                 result.push_back(words[i]);
+                lastGroup = groups[i];
             }
         }
+        
         return result;
     }
 };
