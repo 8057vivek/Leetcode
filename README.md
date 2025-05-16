@@ -74,6 +74,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/8057vivek/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/8057vivek/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/8057vivek/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/8057vivek/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/8057vivek/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
@@ -515,6 +516,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/8057vivek/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
@@ -528,6 +530,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/8057vivek/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/8057vivek/Leetcode/tree/master/2048-build-array-from-permutation) |
