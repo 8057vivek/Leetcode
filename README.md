@@ -77,6 +77,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0054-spiral-matrix](https://github.com/8057vivek/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/8057vivek/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/8057vivek/Leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/8057vivek/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/8057vivek/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/8057vivek/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/8057vivek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -213,6 +214,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | ------- |
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/8057vivek/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/8057vivek/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/8057vivek/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -437,6 +439,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/8057vivek/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/8057vivek/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/8057vivek/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/8057vivek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/8057vivek/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/8057vivek/Leetcode/tree/master/0143-reorder-list) |
