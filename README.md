@@ -112,6 +112,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0496-next-greater-element-i](https://github.com/8057vivek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/8057vivek/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/8057vivek/Leetcode/tree/master/0739-daily-temperatures) |
@@ -225,6 +226,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/8057vivek/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -364,6 +366,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
 | [0483-smallest-good-base](https://github.com/8057vivek/Leetcode/tree/master/0483-smallest-good-base) |
 | [0507-perfect-number](https://github.com/8057vivek/Leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
