@@ -195,6 +195,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3483-alternating-groups-ii](https://github.com/8057vivek/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8057vivek/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/8057vivek/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/8057vivek/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/8057vivek/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/8057vivek/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Bit Manipulation
@@ -326,6 +327,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2915-count-of-interesting-subarrays](https://github.com/8057vivek/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/8057vivek/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/8057vivek/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/8057vivek/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
 | ------- |
