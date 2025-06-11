@@ -55,6 +55,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3455-minimum-length-of-string-after-operations](https://github.com/8057vivek/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/8057vivek/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/8057vivek/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/8057vivek/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/8057vivek/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -482,6 +483,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/8057vivek/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/8057vivek/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/8057vivek/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/8057vivek/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -815,6 +817,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0204-count-primes](https://github.com/8057vivek/Leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/8057vivek/Leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/8057vivek/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/8057vivek/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
 | ------- |
