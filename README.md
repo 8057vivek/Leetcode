@@ -7,6 +7,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/8057vivek/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/8057vivek/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/8057vivek/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8057vivek/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
