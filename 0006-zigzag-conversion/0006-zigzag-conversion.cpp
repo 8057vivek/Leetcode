@@ -1,22 +1,24 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows==1){
-            return s;
-        }
-        string result = "";
-        int steps = (numRows-1)*2;
-        
+        if (numRows == 1) return s; 
 
-        for(int i=0;i<numRows;i++){
-            for(int j=i;j<s.size();j+=steps){
-                result+=s[j];
-                if((i>0 && i<numRows-1) && ((j+steps-2*i)<s.size())){
-                    result+=s[j+steps-2*i];
-                }
+        vector<string> rows(min(numRows, int(s.size())));
+        int row = 0;
+        bool down = false;
 
-            }
+        for (char c : s) {
+            rows[row] += c;
+            // Change direction at top or bottom
+            if (row == 0 || row == numRows - 1)
+                down = !down;
+            row += down ? 1 : -1;
         }
+
+        string result;
+        for (string r : rows)
+            result += r;
+
         return result;
     }
 };
