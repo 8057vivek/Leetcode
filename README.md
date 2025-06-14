@@ -393,6 +393,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2571-find-the-pivot-integer](https://github.com/8057vivek/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/8057vivek/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/8057vivek/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/8057vivek/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/8057vivek/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/8057vivek/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -442,6 +443,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/8057vivek/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8057vivek/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/8057vivek/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/8057vivek/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/8057vivek/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Number Theory
