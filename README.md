@@ -370,6 +370,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/8057vivek/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/8057vivek/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/8057vivek/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0070-climbing-stairs) |
@@ -638,6 +639,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0021-merge-two-sorted-lists](https://github.com/8057vivek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/8057vivek/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/8057vivek/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/8057vivek/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/8057vivek/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0206-reverse-linked-list) |
