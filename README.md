@@ -169,6 +169,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2249-count-the-hidden-sequences](https://github.com/8057vivek/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/8057vivek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/8057vivek/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/8057vivek/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -495,6 +496,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/8057vivek/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/8057vivek/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8057vivek/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/8057vivek/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
