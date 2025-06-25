@@ -7,4 +7,4 @@ select Department, Employee, Salary from(
     from Employee e
     join Department d on e.departmentId=d.id
 
-)ranked where rnk=1;
+)as ranked where rnk=1;
