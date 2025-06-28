@@ -164,6 +164,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2179-most-beautiful-item-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/8057vivek/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/8057vivek/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/8057vivek/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/8057vivek/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/8057vivek/Leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -244,6 +245,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/8057vivek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/8057vivek/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/8057vivek/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/8057vivek/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8057vivek/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/8057vivek/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -288,6 +290,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8057vivek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/8057vivek/Leetcode/tree/master/1500-count-largest-group) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/8057vivek/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/8057vivek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/8057vivek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/8057vivek/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -543,6 +546,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0451-sort-characters-by-frequency](https://github.com/8057vivek/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/8057vivek/Leetcode/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/8057vivek/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8057vivek/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/8057vivek/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/8057vivek/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
