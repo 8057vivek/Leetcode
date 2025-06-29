@@ -147,6 +147,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/8057vivek/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/8057vivek/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/8057vivek/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1651-shuffle-string](https://github.com/8057vivek/Leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/8057vivek/Leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -242,6 +243,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1019-squares-of-a-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/8057vivek/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/8057vivek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/8057vivek/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -430,6 +432,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/8057vivek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/8057vivek/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/8057vivek/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/8057vivek/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -495,6 +498,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1028-interval-list-intersections](https://github.com/8057vivek/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/8057vivek/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/8057vivek/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8057vivek/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
