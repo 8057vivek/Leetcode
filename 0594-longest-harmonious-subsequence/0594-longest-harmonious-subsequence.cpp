@@ -1,19 +1,20 @@
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
-        int n = nums.size();
-        int maxLen = 0;
-        unordered_map<int, int> map;
-        for(int i:nums){
-            map[i]++;
-        }
         sort(nums.begin(),nums.end());
-        for(int i=1;i<n;i++){
-            if(nums[i]==nums[i-1]+1){
-                maxLen = max(maxLen,(map[nums[i]]+map[nums[i-1]]));
+        int n = nums.size();
+        int left = 0;
+
+        int result = 0;
+        
+        for(int right = 0;right<n;right++){
+            while(nums[right]-nums[left]>1){
+                left++;
+            }
+            if(nums[right]-nums[left]==1){
+                result = max(result, right-left+1);
             }
         }
-
-        return maxLen;
+        return result; 
     }
 };
