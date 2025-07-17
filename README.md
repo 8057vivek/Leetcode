@@ -832,6 +832,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1135-customers-who-bought-all-products](https://github.com/8057vivek/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/8057vivek/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/8057vivek/Leetcode/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/8057vivek/Leetcode/tree/master/1268-market-analysis-i) |
 | [1390-average-selling-price](https://github.com/8057vivek/Leetcode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/8057vivek/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/8057vivek/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
