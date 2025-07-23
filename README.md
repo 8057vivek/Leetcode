@@ -79,6 +79,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0036-valid-sudoku](https://github.com/8057vivek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/8057vivek/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/8057vivek/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/8057vivek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/8057vivek/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/8057vivek/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/8057vivek/Leetcode/tree/master/0051-n-queens) |
@@ -489,6 +490,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/8057vivek/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/8057vivek/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/8057vivek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/8057vivek/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/8057vivek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/8057vivek/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -522,6 +524,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/8057vivek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/8057vivek/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/8057vivek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -539,6 +542,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/8057vivek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/8057vivek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/8057vivek/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/8057vivek/Leetcode/tree/master/0937-online-stock-span) |
@@ -613,6 +617,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/8057vivek/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/8057vivek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/8057vivek/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/8057vivek/Leetcode/tree/master/0062-unique-paths) |
