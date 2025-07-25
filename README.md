@@ -215,6 +215,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/8057vivek/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/8057vivek/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/8057vivek/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/8057vivek/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -320,6 +321,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/8057vivek/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/8057vivek/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/8057vivek/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/8057vivek/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
@@ -476,6 +478,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2716-prime-subtraction-operation](https://github.com/8057vivek/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/8057vivek/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/8057vivek/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/8057vivek/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Number Theory
 |  |
 | ------- |
