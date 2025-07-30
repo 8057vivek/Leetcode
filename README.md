@@ -186,6 +186,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/8057vivek/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/8057vivek/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8057vivek/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8057vivek/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8057vivek/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/8057vivek/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/8057vivek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -233,6 +234,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/8057vivek/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/8057vivek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/8057vivek/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8057vivek/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/8057vivek/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/8057vivek/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -904,4 +906,8 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/8057vivek/Leetcode/tree/master/1028-interval-list-intersections) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8057vivek/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
