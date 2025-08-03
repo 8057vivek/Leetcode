@@ -9,19 +9,19 @@ public:
     int maxTotalFruits(vector<vector<int>>& fruits, int startPos, int k) {
         int n = fruits.size();
 
-        vector<int> positions(n);
-        for(int i=0;i<n;i++){
-            positions[i] = fruits[i][0];
-        }
+        // vector<int> positions(n);
+        // for(int i=0;i<n;i++){
+        //     positions[i] = fruits[i][0];
+        // }
 
-        int lowerBound = lower_bound(positions.begin(),positions.end(),startPos-k)-positions.begin();
-        int upperBound = upper_bound(positions.begin(),positions.end(),startPos+k)-positions.begin()-1;
+        // int lowerBound = lower_bound(positions.begin(),positions.end(),startPos-k)-positions.begin();
+        // int upperBound = upper_bound(positions.begin(),positions.end(),startPos+k)-positions.begin()-1;
 
-        int l = lowerBound;
+        int l = 0;
         int sum = 0;
         int maxFruits = 0;
 
-        for (int r = lowerBound; r <= upperBound; ++r) {
+        for (int r = 0; r < n; ++r) {
             sum += fruits[r][1];
 
             // Shrink window if not reachable within k steps
