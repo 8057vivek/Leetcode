@@ -132,6 +132,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/8057vivek/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/8057vivek/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/8057vivek/Leetcode/tree/master/1028-interval-list-intersections) |
@@ -302,6 +303,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/8057vivek/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/8057vivek/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -384,6 +386,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0438-find-all-anagrams-in-a-string](https://github.com/8057vivek/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/8057vivek/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8057vivek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/8057vivek/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/8057vivek/Leetcode/tree/master/1813-maximum-erasure-value) |
