@@ -420,6 +420,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/8057vivek/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/8057vivek/Leetcode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/8057vivek/Leetcode/tree/master/0326-power-of-three) |
 | [0483-smallest-good-base](https://github.com/8057vivek/Leetcode/tree/master/0483-smallest-good-base) |
 | [0507-perfect-number](https://github.com/8057vivek/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -697,6 +698,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0143-reorder-list](https://github.com/8057vivek/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/8057vivek/Leetcode/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/8057vivek/Leetcode/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/8057vivek/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
