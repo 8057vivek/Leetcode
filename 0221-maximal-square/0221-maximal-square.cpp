@@ -1,30 +1,36 @@
 class Solution {
 public:
-    int maxSide = 0;
-    int recursion(vector<vector<char>>& matrix, int r, int c,vector<vector<int>>& dp){
-        if(r>=matrix.size() || c>=matrix[0].size()){
-            return 0;
-        }
-        if(dp[r][c]!=-1){
-            return dp[r][c];
-        }
-        int right = recursion(matrix, r, c+1, dp);
-        int bottom = recursion(matrix, r+1, c, dp);
-        int diagonal = recursion(matrix, r+1, c+1, dp);
+    int m, n;
+    vector<vector<int>> dp;
 
-        if(matrix[r][c]=='1'){
-            int side = min(right, min(bottom, diagonal))+1;
-            maxSide = max(maxSide, side);
-            return dp[r][c] = side;
-        }else{
-            return dp[r][c] =  0;
+    int helper(vector<vector<char>>& matrix, int i, int j) {
+        if (i >= m || j >= n) return 0;
+
+        if (dp[i][j] != -1) return dp[i][j];
+
+        int right = helper(matrix, i, j + 1);
+        int down  = helper(matrix, i + 1, j);
+        int diag  = helper(matrix, i + 1, j + 1);
+
+        if (matrix[i][j] == '1') {
+            dp[i][j] = 1 + min({right, down, diag});
+        } else {
+            dp[i][j] = 0;
         }
+        return dp[i][j];
     }
+
     int maximalSquare(vector<vector<char>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-        vector<vector<int>> dp(m+1, vector<int>(n+1,-1));
-        recursion(matrix,0,0, dp);
-        return maxSide*maxSide;
+        m = matrix.size();
+        n = matrix[0].size();
+        dp.assign(m, vector<int>(n, -1));
+
+        int maxSide = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                maxSide = max(maxSide, helper(matrix, i, j));
+            }
+        }
+        return maxSide * maxSide; // return area
     }
 };
