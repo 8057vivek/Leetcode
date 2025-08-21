@@ -148,6 +148,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1349-check-if-it-is-a-straight-line](https://github.com/8057vivek/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/8057vivek/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/8057vivek/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/8057vivek/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/8057vivek/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/8057vivek/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8057vivek/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -613,6 +614,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/8057vivek/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/8057vivek/Leetcode/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/8057vivek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8057vivek/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -682,6 +684,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [1121-partition-array-for-maximum-sum](https://github.com/8057vivek/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/8057vivek/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/8057vivek/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/8057vivek/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8057vivek/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/8057vivek/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/8057vivek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
