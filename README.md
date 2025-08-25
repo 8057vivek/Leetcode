@@ -120,6 +120,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/8057vivek/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/8057vivek/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/8057vivek/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/8057vivek/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -613,6 +614,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0200-number-of-islands](https://github.com/8057vivek/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/8057vivek/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/8057vivek/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/8057vivek/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/8057vivek/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/8057vivek/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -626,6 +628,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/8057vivek/Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/8057vivek/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8057vivek/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/8057vivek/Leetcode/tree/master/2048-build-array-from-permutation) |
