@@ -1,13 +1,28 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int profit = 0;
-        int n = prices.size();
-        for(int i=0;i<n-1;i++){
-            if(prices[i+1]>prices[i]){
-                profit+=prices[i+1]-prices[i];
-            }
+
+    int  recursion(int index, int buy, vector<int>&prices, vector<vector<int>> & dp){
+        
+        if(index==prices.size()){
+            return 0;
         }
-        return profit;
+        if(dp[index][buy]!=-1){
+            return dp[index][buy];
+        }
+
+        int profit= 0;
+        if(buy){
+            profit = max((-prices[index]+recursion(index+1, 0, prices, dp)), (0+recursion(index+1 ,1, prices, dp)));
+        }
+        else{
+            profit = max((prices[index]+recursion(index+1, 1, prices, dp)), (recursion(index+1, 0, prices, dp)));
+        }
+
+        return dp[index][buy] = profit;
+    }
+    int maxProfit(vector<int>& prices) {
+        int n = prices.size();
+        vector<vector<int>> dp(n, vector<int>(2,-1));
+        return recursion(0, 1, prices, dp);
     }
 };
