@@ -131,6 +131,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8057vivek/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/8057vivek/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -504,6 +505,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/8057vivek/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/8057vivek/Leetcode/tree/master/0134-gas-station) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8057vivek/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/8057vivek/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -698,6 +700,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0518-coin-change-ii](https://github.com/8057vivek/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/8057vivek/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/8057vivek/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8057vivek/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/8057vivek/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/8057vivek/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/8057vivek/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
