@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int recursion(int i,int prev, vector<int>& nums, vector<vector<int>>& dp){
-        if(i==nums.size()){
+    int recursion(int index,int last,  vector<int>& nums, vector<vector<int>> & dp){
+        if(index==nums.size()){
             return 0;
         }
-        if(dp[i][prev+1]!=-1){
-            return dp[i][prev+1];
+        if(dp[index][last+1]!=-1){
+            return dp[index][last+1];
         }
-        int Nottake = recursion(i+1,prev,nums,dp);
-        int take=0;
-        if(prev==-1 || nums[i]>nums[prev]){
-            take = 1+recursion(i+1,i,nums,dp);
-        }
+        int notTake = recursion(index+1, last, nums, dp);
 
-        return dp[i][prev+1] = max(take, Nottake);
-        
+        int take = 0;
+        if(last==-1 || nums[index]>nums[last]){
+            take = 1+recursion(index+1, index, nums, dp);
+        }
+        return dp[index][last+1] = max(take, notTake);
     }
     int lengthOfLIS(vector<int>& nums) {
-        vector<vector<int>> dp(nums.size(),vector<int>(nums.size(),-1));
-        return recursion(0,-1,nums,dp);
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        return recursion(0, -1, nums, dp);
     }
 };
