@@ -1,34 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    int recursion(vector<int>& prices,int day, int n, bool buy ){ // day means index 
-        if(day>=n){
+    int recursion(int index, int buy, vector<int>& prices, vector<vector<int>> & dp){
+        if(index>=prices.size()){
             return 0;
         }
-
-        if (dp[day][buy] != -1) return dp[day][buy];
-
-        int profit=0;
-
-        if(buy){//buy
-
-            int take = recursion(prices, day+1,n, false) - prices[day];
-            int notTake = recursion(prices, day+1, n, true);
-            profit = max(profit, max(take, notTake));
+        if(dp[index][buy]!=-1){
+            return dp[index][buy];
         }
-        else{//sell
 
-            int sell = prices[day] + recursion(prices, day+2, n, true); // cooldown after sell
-            int notSell =  recursion(prices, day+1, n, false); // next step we have to sell before buy
-            profit = max(profit, max(sell, notSell));
+        int profit = 0;
+        if(buy){
+            profit = max(-prices[index]+recursion(index+1, 0, prices, dp),
+                        0+recursion(index+1, 1, prices, dp));
         }
-        return dp[day][buy] = profit;
+        else{
+            profit = max(prices[index] +recursion(index+2, 1, prices, dp),
+             0+recursion(index+1, 0, prices, dp));
+        }
+        return dp[index][buy]=profit;
     }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        dp.assign(n, vector<int>(2, -1));
-
-        bool buy = true;
-        return recursion(prices, 0 , n, buy); // true for first day buy
+        vector<vector<int>> dp(n, vector<int>(2, -1));
+        return recursion(0, 1, prices, dp);
     }
 };
