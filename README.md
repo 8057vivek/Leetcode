@@ -128,6 +128,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0498-diagonal-traverse](https://github.com/8057vivek/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/8057vivek/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/8057vivek/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/8057vivek/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/8057vivek/Leetcode/tree/master/0695-max-area-of-island) |
@@ -268,6 +269,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/8057vivek/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/8057vivek/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8057vivek/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/8057vivek/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8057vivek/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -478,6 +480,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0300-longest-increasing-subsequence](https://github.com/8057vivek/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0483-smallest-good-base](https://github.com/8057vivek/Leetcode/tree/master/0483-smallest-good-base) |
+| [0611-valid-triangle-number](https://github.com/8057vivek/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/8057vivek/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/8057vivek/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/8057vivek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -505,6 +508,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0044-wildcard-matching](https://github.com/8057vivek/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/8057vivek/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/8057vivek/Leetcode/tree/master/0134-gas-station) |
+| [0611-valid-triangle-number](https://github.com/8057vivek/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8057vivek/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/8057vivek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/8057vivek/Leetcode/tree/master/0890-lemonade-change) |
@@ -549,6 +553,7 @@ this repository consists the solutions of problems solved by me on leetcode.
 | [0283-move-zeroes](https://github.com/8057vivek/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/8057vivek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/8057vivek/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/8057vivek/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/8057vivek/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/8057vivek/Leetcode/tree/master/0908-middle-of-the-linked-list) |
